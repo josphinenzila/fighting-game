@@ -13,5 +13,3 @@ This is a simple web based application that stimulates a fight between two fight
 
 - To run this project, simply clone the git repo and open the index.html file on a browser
 - The link to the project is https://fighting-game.josphinenzila.repl.co/
-
-#### By Josphine Nzila (Software Developer)
